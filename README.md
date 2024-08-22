@@ -22,6 +22,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
 </div>
 
 ###
@@ -34,8 +38,12 @@
 
 ###
 
-<br clear="both">
+<h3 align="left">🔥   My Stats :</h3>
 
-<img src="https://raw.githubusercontent.com/joabescosta/joabescosta/output/snake.svg" alt="Snake animation" />
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=JoabeSCosta&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
 
 ###
