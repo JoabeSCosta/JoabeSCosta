@@ -9,6 +9,12 @@
 
 ###
 
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=JoabeSCosta.JoabeSCosta&"  />
+</div>
+
+###
+
 <img align="right" height="150" src="https://imgur.com/IeGQ4PO.gif"  />
 
 ###
